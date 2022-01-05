@@ -1,2 +1,4 @@
 Chapter 1
-This is the beginning
+This is the beginning.
+
+Finish of Chapter 1.
